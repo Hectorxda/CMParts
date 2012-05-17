@@ -821,4 +821,11 @@
     <string name="perm_enable_management_summary">Enable application permissions management</string>
     <string name="perm_enable_warning_message">Warning!\nRevoking most permissions will most likely cause applications to malfunction. If an application with revoked permissions force-closes please grant the expected permissions or don\'t use the application.\nPlease DO NOT send bug reports to Cyanogenmod if an application with revoked permissions is not working as expected!</string>
     <string name="perm_enable_warning_title">Are you sure?</string>
+    
+    <!-- Led switch -->
+    <string name="ledswitch_settings_title_head">led switch</string>
+    <string name="led_blink_title">LED blink</string>
+    <string name="led_blink_summary">Please choose LED blink</string>
+    <string name="led_switch_title">LED switch</string>
+    <string name="led_switch_summary">Please choose LED on/off</string>
 </resources>

@@ -802,5 +802,21 @@
         <item>3</item>
         <item>4</item>
     </string-array>
+    
+    <!-- i don't know why here use color to control blink ,this is only for p990 -->
+    <string-array name="led_blink_rate_values" translatable="false">
+        <item>red</item>
+        <item>blue</item>
+    </string-array>
+    
+    <string-array name="led_switch_entries">
+        <item>LED On</item>
+        <item>LED Off</item>
+    </string-array>
+    
+    <string-array name="led_switch_values" translatable="false">
+        <item>forceeventon</item>
+        <item>forceoff</item>
+    </string-array>
 
 </resources>

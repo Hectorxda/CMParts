@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:key="ledswitch_screen"
+                  android:title="@string/ledswitch_settings_title_head">
+
+    <ListPreference android:key="switch"
+                    android:persistent="false"
+                    android:title="@string/led_switch_title"
+                    android:dialogTitle="@string/led_switch_title"
+                    android:summary="@string/led_switch_summary"
+                    android:entries="@array/led_switch_entries"
+                    android:entryValues="@array/led_switch_values" />
+    
+
+    <ListPreference android:key="blink"
+                    android:persistent="false"
+                    android:title="@string/led_blink_title"
+                    android:dialogTitle="@string/led_blink_title"
+                    android:summary="@string/led_blink_summary"
+                    android:entries="@array/led_blink_rate_entries"
+                    android:entryValues="@array/led_blink_rate_values" />
+
+</PreferenceScreen>

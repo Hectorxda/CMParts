@@ -790,4 +790,11 @@
     <string name="pref_lockscreen_calendar_show_location_summary">在标题下显示事件的位置</string>
     <string name="pref_lockscreen_calendar_show_description_title">显示事件描述</string>
     <string name="pref_lockscreen_calendar_show_description_summary">在标题下显示事件描述</string>
+    
+    <!-- Led switch -->
+    <string name="ledswitch_settings_title_head">通知灯开关</string>
+    <string name="led_blink_title">LED闪烁频率</string>
+    <string name="led_blink_summary">请选择LED的闪烁频率</string>
+    <string name="led_switch_title">LED开关</string>
+    <string name="led_switch_summary">请选择打开/关闭LED</string>
 </resources>

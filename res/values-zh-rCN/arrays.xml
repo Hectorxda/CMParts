@@ -272,5 +272,15 @@
 	<item>百分比</item>
 	<item>隐藏</item>
     </string-array>
+    
+    <string-array name="led_blink_rate_entries">
+        <item>慢速闪烁</item>
+        <item>快速闪烁</item>
+    </string-array>
+    
+    <string-array name="led_switch_entries">
+        <item>LED打开</item>
+        <item>LED关闭</item>
+    </string-array>
 
 </resources>
